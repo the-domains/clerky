@@ -1,0 +1,28 @@
+name: clerky
+favicon: null
+layout_spectrum: 0.9694158392958343
+typography_spectrum: 0.11964756320230663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.528128513135016
+  lightness: 0.4057243422139436
+  saturation: 0.7946679196320474
+  rhythmicContrast: 0.9805320363957435
+purpose: []
